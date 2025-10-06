@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sam Hagen</h1>
 <h3 align="center">I am a CS student at CU Boulder passionate about Machine Learning and AI.</h3>
 
-- 🌱 I’m currently learning **AWS AI Practitioner**
+- 👨‍💻 My Portfolio is available at: [https://sam-hagen-portfolio.vercel.app/](https://sam-hagen-portfolio.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://sam-hagen-portfolio.vercel.app/](https://sam-hagen-portfolio.vercel.app/)
-
-- ⚡ Fun fact **I love Formula 1**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
