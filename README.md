@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sam Hagen</h1>
+<h1 align="center">Hi I'm Sam Hagen</h1>
 <h3 align="center">I am a CS student at CU Boulder passionate about Quant Finance and Software Engineering.</h3>
 
 - 👨‍💻 My Portfolio is available at: [https://sam-hagen-portfolio.vercel.app/](https://sam-hagen-portfolio.vercel.app/)
