@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Sam Hagen</h1>
-<h3 align="center">I am a CS student at CU Boulder passionate about Quant Finance and Software Engineering.</h3>
+<h3 align="center">I am a Software Engineer passionate about Quant Finance and Software Engineering.</h3>
 
 - 👨‍💻 My Portfolio is available at: [Portfolio](https://sam-hagen-portfolio.vercel.app/)
 
